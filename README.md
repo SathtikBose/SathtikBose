@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a Full Stack & Android Developer<br><br>I am a 2nd-year BCA student at **Netaji Subhash University** with a passion for the deep internals of computing.<br>What drives me?<br>I am obsessed with the "Why" and "How." I don't just write code; I study the journey of a request—from the moment a user touches a button to how the system processes the logic.<br> AI-enhanced development for maximum efficiency <br><br> Currently Learning<br>I am constantly exploring low-level system architecture and new AI integrations to make development faster and smarter.
+Hi there! I'm a Full Stack & Android Developer<br><br>I am a 2nd-year BCA student at **Netaji Subhash University** with a passion for the deep internals of computing.<br>What drives me?<br>I am obsessed with the "Why" and "How." I don't just write code; I study the journey of a request—from the moment a user touches a button to how the system processes the logic.<br>  <br><br> Currently Learning<br>I am constantly exploring low-level system architecture and new AI integrations to make development faster and smarter.
 
 
 ## 🌐 Socials:
